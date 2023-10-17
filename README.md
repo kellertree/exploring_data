@@ -1,3 +1,3 @@
 # exploring_Data
 
-HIRING MANAGER! READ HERE: This repository is a Data Science and Data Analytics Repository. It contains data science and analytics project examples for assessment.
+This repository is a Data Science and Data Analytics Repository. It contains personal data science and analytics projects that I have worked examples for assessment.
