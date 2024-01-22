@@ -1,8 +1,0 @@
-Description of data set:
-
-State of Washington — This dataset shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) that are currently registered through Washington State Department...
-
-sourced from https://catalog.data.gov/dataset?q=&sort=views_recent+desc
-
-source link: https://catalog.data.gov/dataset/electric-vehicle-population-data
-
